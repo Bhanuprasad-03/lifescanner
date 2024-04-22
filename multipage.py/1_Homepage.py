@@ -31,7 +31,7 @@ var = """
         [data-testid="stAppViewContainer"]{
       background-repeat: no-repeat; 
       background-size: cover;
-      background-image:url("https://i.pinimg.com/originals/04/94/6c/04946cf7a010c553c9e9636cfad54970.jpg");
+      background-image:url("https://telugustop.com/wp-content/uploads/2019/06/Uppal-Balu-Tiktok-is-In-Bigg-Boss-Telugu-Season-3.jpg");
       }
     </style>
  """
